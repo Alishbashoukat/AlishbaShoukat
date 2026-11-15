@@ -52,6 +52,51 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:059669,100:064e3b&height=120&section=footer" width="100%" />
 
 </div>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🌐 Project One</h3>
+
+<p align="center">
+A creative web development project built with modern technologies.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center">
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-059669?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🤖 Project Two</h3>
+
+<p align="center">
+An innovative project exploring technology and AI.
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,react" />
+</p>
+
+<p align="center">
+<a href="YOUR_PROJECT_LINK">
+<img src="https://img.shields.io/badge/View_Project-059669?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 <div align="center">
 
 <picture>
