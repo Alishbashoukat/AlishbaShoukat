@@ -52,3 +52,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:059669,100:064e3b&height=120&section=footer" width="100%" />
 
 </div>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alishbashoukat/AlishbaShoukat/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Alishbashoukat/AlishbaShoukat/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
